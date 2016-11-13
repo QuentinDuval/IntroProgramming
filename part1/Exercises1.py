@@ -1,5 +1,4 @@
-
-""" List of exercises to complete after Basics """
+""" List of exercises to complete after Functions """
 
 
 """
